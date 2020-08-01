@@ -8,3 +8,7 @@ Provides functions to perform elastic net, stability selection, and hybrid metho
 library(devtools)
 install_github("Esurv",username="wanglab1")
 ```
+
+## Contributors
+Sijie Yao
+Xuefeng Wang
