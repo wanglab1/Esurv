@@ -4,5 +4,7 @@ Provides functions to perform elastic net, stability selection, and hybrid metho
 
 
 ## Installation
+```
 library(devtools)
 install_github("Esurv",username="wanglab1")
+```
